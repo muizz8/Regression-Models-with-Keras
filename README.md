@@ -33,7 +33,6 @@ The project directory is structured as follows:
 - **data/**: Contains the dataset files used for training and testing.
 - **models/**: Includes scripts for implementing various regression models using Keras.
 - **utils/**: Contains utility functions used for data preprocessing, visualization, etc.
-- **main.py**: The main script to run the project.
 - **requirements.txt**: Lists all the Python dependencies required for the project.
 
 **Contributing**
