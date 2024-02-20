@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your_username/Regression_Models_with_Keras.git
+git clone https://github.com/muizz8/Regression_Models_with_Keras.git
 ```
 2. Navigate to the project directory:
 ```bash
