@@ -1,0 +1,7 @@
+To set up the project environment, ensure that the following packages are installed:
+
+```
+pandas
+numpy
+keras
+```
